@@ -2032,13 +2032,13 @@ textarea.form-control {
     .form-inline .custom-control-label {
       margin-bottom: 0; } }
 
-      
+.algn{
+  text-align: center;
+}    
 .btn {
   display: inline-block;
   font-weight: 400;
   color: #212529;
-  text-align: center;
-  vertical-align: middle;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -8172,7 +8172,7 @@ h1, h2, h3, h4, h5,
   line-height: 1.5;
   color: rgba(0, 0, 0, 0.8);
   font-weight: 400;
-  font-family: "Lora", serif; }
+  font-family: 'Poppins', Arial, sans-serif; }
 
 .text-primary {
   color: #fdcb6e !important; }
